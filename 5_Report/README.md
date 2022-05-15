@@ -6,8 +6,12 @@
 
 # INTRODUCTION
 #### . In this project the wiper control system works under STM32 with three different vaiations with the variation of LED
+
 # OBJECTIVE
 #### . The main objective is to control the wiper system with STM32
+
 # FEATURES
 #### . This wiper has different levels of variations using LED
+
+
 
